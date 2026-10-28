@@ -1,0 +1,13 @@
+LIBRETA DE VACAS - publicar en GitHub Pages (gratis)
+
+1) Entrá a github.com e iniciá sesión (o creá una cuenta gratis).
+2) Arriba a la derecha: "+" > "New repository". Nombre: libreta. Marcá "Public". Tocá "Create repository".
+3) En el repositorio nuevo: "uploading an existing file". Arrastrá TODOS los archivos de esta carpeta
+   (index.html, app.js, xlsx.full.min.js, sw.js, manifest.webmanifest, icon-192.png, icon-512.png), no la carpeta. Tocá "Commit changes".
+4) Settings > Pages > Branch: main, carpeta / (root) > Save. En un minuto aparece el enlace (https://TU-USUARIO.github.io/libreta/).
+5) Cada productor abre el enlace en su celular:
+   - Android (Chrome): menú de tres puntos > "Instalar app".
+   - iPhone (Safari): Compartir > "Agregar a pantalla de inicio".
+6) La primera vez toca "Elegir archivo" y selecciona su libreta (.xls o .xlsx). Queda guardada en el teléfono y funciona sin señal.
+
+Nota: la página es pública pero está vacía. Los datos de cada tambo solo existen en el teléfono de quien carga su Excel.
